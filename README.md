@@ -8,3 +8,7 @@
 % cd google-test-sample
 % ./setup.sh
 ```
+
+## Commands
+
+- make: compile and run test all
