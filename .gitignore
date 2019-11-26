@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+
+# googletest
+googletest-release-1.10.0/
+release-1.10.0.tar.gz
+gtest/
